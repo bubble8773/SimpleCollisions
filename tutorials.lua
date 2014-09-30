@@ -1,0 +1,1 @@
+SetupProject("Project1", "project1.cpp","data/project1.frag", "data/project1.vert","data/project1.geom")
